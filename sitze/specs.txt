@@ -1,0 +1,12 @@
+Sitze specs:
+
+- Sportsitze
+- Bestes Leder
+- Vollelektronisch
+- Rot
+
+
+kann:
+
+Fahrer sich draufsetzen lassen, individuelle Einstellungen speichern
+
