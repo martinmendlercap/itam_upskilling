@@ -1,0 +1,7 @@
+features:
+
+- Beifahrer Stumm schalten
+
+kann:
+- muten
+- aktiviert/deaktiviert werden
